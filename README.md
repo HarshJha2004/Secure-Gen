@@ -20,7 +20,7 @@ SecureGen is a fully functional, full-stack web application designed for modern 
 
 ## 🚀 Live Link
 
-**Launch SecureGen →** [https://securegen-password-manager.vercel.app/](https://securegen-password-manager.vercel.app/)
+**Launch SecureGen →** [https://securegen-password-manager.vercel.app/](https://secure-gen-password.vercel.app/)
 
 ---
 
@@ -91,7 +91,7 @@ I built SecureGen to create a practical, full-stack application that addresses a
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/the-ajay-panigrahi/secure-gen
+git clone https://github.com/HarshJha2004/secure-gen
 cd secure-gen
 npm install
 # note: create a .env file and add your Firebase project keys
